@@ -14,10 +14,12 @@ $return["menu"] = [
 		[
 			"section_id"	=> 1,
 			"item_name"		=> "Belenes",
+			"item_background" => ""
 		],
 		[
 			"section_id"	=> 2,
 			"item_name"		=> "Dulces",
+			"item_background" => ""
 		],
 	]
 ];
