@@ -2,12 +2,12 @@
 $return = array();
 
 // NOMBRE DE LA APP
-$return['app_id'] = "1";
+$return['app_id'] = 1;
 $return['app_name'] = "Navidad 16";
 
 // MENÚ
 $return["menu"] = [
-	"num_items"			=> "1",
+	"num_items"			=> 1,
 	"menu_background"	=> "",
 	"menu_type"			=> "mosaic",
 	"items"				=> [
