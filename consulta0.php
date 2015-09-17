@@ -10,16 +10,24 @@ $return["menu"] = [
 	"num_items"			=> 1,
 	"menu_background"	=> "",
 	"menu_type"			=> "mosaic",
+	"menu_title"		=> "CABALGATA2016 ATENEO",
+	"menu_header"		=> [
+		
+	],
 	"items"				=> [
 		[
 			"section_id"	=> 1,
+			"section_order" => 1,
 			"item_name"		=> "Belenes",
-			"item_background" => ""
+			"item_background" => "",
+			"item_width"	=> 1
 		],
 		[
 			"section_id"	=> 2,
+			"section_order" => 2,
 			"item_name"		=> "Dulces",
-			"item_background" => ""
+			"item_background" => "",
+			"item_width"	=> 1
 		],
 	]
 ];
