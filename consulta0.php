@@ -37,25 +37,27 @@ $return["sections"] = [
 		"id"			=> 1,
 		"name" 			=> "Belenes",
 		"section_type"	=> "map",
+		"section_detail_url" => "http://fierce-beyond-9973.herokuapp.com/consulta1.php",
 		"colors_palette" => [
-			"primary"				=> "",
-			"secondary"				=> "",
-			"tertiary"				=> "",
-			"quaternary"			=> "",
-			"background_primary" 	=> "",
-			"background_secondary"	=> ""
+			"primary"				=> "#CC3366",
+			"secondary"				=> "#FF33FF",
+			"tertiary"				=> "#203320",
+			"quaternary" 			=> "#AF33AF",
+			"background_primary"	=> "#F433EE",
+			"background_secondary"	=> "#F333EB"
 		],
 	],
 	[
 		"id"			=> 2,
 		"name" 			=> "Dulces de Navidad",
 		"section_type"	=> "map",
+		"section_detail_url" => "http://fierce-beyond-9973.herokuapp.com/consulta1.php",
 		"colors_palette" => [
 			"primary"				=> "#CC0066",
 			"secondary"				=> "#FFFFFF",
 			"tertiary"				=> "#202020",
 			"quaternary" 			=> "#AFAFAF",
-			"background_secondary"	=> "#F4F3EE",
+			"background_primary"	=> "#F4F3EE",
 			"background_secondary"	=> "#F3F0EB"
 		],
 	],
