@@ -13,21 +13,21 @@ $return["menu"] = [
 	"menu_title"		=> "CABALGATA2016 ATENEO",
 	"menu_header"		=> [
 		"menu_header_title"	=> "Cabalgata Ateneo de Sevilla 2016",
-		"menu_header_background"	=> ""
+		"menu_header_background"	=> "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.0.jpg"
 	],
 	"items"				=> [
 		[
 			"section_id"	=> 1,
 			"section_order" => 1,
 			"item_name"		=> "Belenes",
-			"item_background" => "",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.1.jpg",
 			"item_width"	=> 1
 		],
 		[
 			"section_id"	=> 2,
 			"section_order" => 2,
 			"item_name"		=> "Dulces",
-			"item_background" => "",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.2.jpg",
 			"item_width"	=> 1
 		],
 	]
