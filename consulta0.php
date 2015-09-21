@@ -21,15 +21,79 @@ $return["menu"] = [
 			"section_order" => 1,
 			"item_name"		=> "Belenes",
 			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.1.jpg",
-			"item_width"	=> 1
+			"item_width"	=> 0.5
 		],
 		[
 			"section_id"	=> 2,
 			"section_order" => 2,
 			"item_name"		=> "Dulces",
 			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.2.jpg",
+			"item_width"	=> 0.5
+		],
+		[
+			"section_id"	=> 3,
+			"section_order" => 3,
+			"item_name"		=> "Itinerarios",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.1.jpg",
 			"item_width"	=> 1
 		],
+		[
+			"section_id"	=> 4,
+			"section_order" => 4,
+			"item_name"		=> "Cabalgata",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.2.jpg",
+			"item_width"	=> 0.5
+		],
+		[
+			"section_id"	=> 5,
+			"section_order" => 5,
+			"item_name"		=> "Heraldo",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.2.jpg",
+			"item_width"	=> 0.5
+		],
+		[
+			"section_id"	=> 6,
+			"section_order" => 6,
+			"item_name"		=> "Agenda de Navidad",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.2.jpg",
+			"item_width"	=> 0.33
+		],
+		[
+			"section_id"	=> 7,
+			"section_order" => 7,
+			"item_name"		=> "Ateneo",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.2.jpg",
+			"item_width"	=> 0.33
+		],
+		[
+			"section_id"	=> 8,
+			"section_order" => 8,
+			"item_name"		=> "Personales 2015",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.2.jpg",
+			"item_width"	=> 0.33
+		],
+		[
+			"section_id"	=> 9,
+			"section_order" => 9,
+			"item_name"		=> "Redes sociales",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.2.jpg",
+			"item_width"	=> 0.33
+		],
+		[
+			"section_id"	=> 10,
+			"section_order" => 10,
+			"item_name"		=> "Carta a SS.MM.",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.2.jpg",
+			"item_width"	=> 0.33
+		],
+		[
+			"section_id"	=> 11,
+			"section_order" => 11,
+			"item_name"		=> "Info App",
+			"item_background" => "http://fierce-beyond-9973.herokuapp.com/resources/menus/1.2.jpg",
+			"item_width"	=> 0.33
+		],
+
 	]
 ];
 // SECCIONES
