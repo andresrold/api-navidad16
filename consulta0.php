@@ -12,7 +12,7 @@ $return["menu"] = [
 	"menu_type"			=> "mosaic",
 	"menu_title"		=> "CABALGATA2016 ATENEO",
 	"menu_header"		=> [
-		"menu_header_title"	=> "Cabalgata Ateneo de Sevilla 2016",
+		"menu_header_title"	=> "",
 		"menu_header_background"	=> "http://fierce-beyond-9973.herokuapp.com/resources/menus/pastilla_logocabalgata.jpg"
 	],
 	"items"				=> [
